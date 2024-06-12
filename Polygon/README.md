@@ -20,6 +20,8 @@ Local Host Test
 
 ![alt text](<Pasted Graphic 1.png>)
 
+mi wallet: 0xF7b701246a8926B01FaDCDF8F1D0eFD40a1Ef9F1
+
 ![alt text](<Pasted Graphic 2.png>)
 
 ![alt text](<Pasted Graphic 3.png>)
