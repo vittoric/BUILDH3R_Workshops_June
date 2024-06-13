@@ -27,6 +27,8 @@ Local Host Test
 
 mi wallet: 0xF7b701246a8926B01FaDCDF8F1D0eFD40a1Ef9F1
 Transaction Hash: 0xa98a1ad4c0d97911bd4eb053ac976f7547541754dcc92f0f1c1607e823161b64
+
+https://cardona-zkevm.polygonscan.com/tx/0xa98a1ad4c0d97911bd4eb053ac976f7547541754dcc92f0f1c1607e823161b64
 ![alt text](<Pasted Graphic 2.png>)
 
 ![alt text](<Pasted Graphic 3.png>)
